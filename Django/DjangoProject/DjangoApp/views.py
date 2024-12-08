@@ -45,14 +45,14 @@ def register(request: HttpRequest) -> HttpResponse:
             HttpResponse: Ответ с отрисованной страницей регистрации.
     """
     if request.user.is_authenticated:
-        return redirect('homenotes')
+        return redirect('menu')
 
     if request.method == 'POST':
         form = UserRegistrationForm(request.POST)
         if form.is_valid():
             user = form.save()
             login(request, user)
-            return redirect('homenotes')
+            return redirect('menu')
     else:
         form = UserRegistrationForm()
     return render(request, 'register.html', {'form': form})

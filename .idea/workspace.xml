@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6aac2c8-5c77-416a-83c8-c2c2b8f46813" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DjangoFlaskFastAPI-Analysis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a6aac2c8-5c77-416a-83c8-c2c2b8f46813" name="Changes" comment="project word">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/DjangoProject/DjangoApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/DjangoProject/DjangoApp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/DjangoProject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Django/DjangoProject/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/DjangoProject/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Django/DjangoProject/templates/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +24,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KseniaPetrova"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KseniaPetrova/DjangoFlaskFastAPI-Analysis.git",
+    "accountId": "799e143c-814f-4982-903f-64bcbd34bb52"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -64,6 +75,30 @@
       <option name="presentableId" value="Default" />
       <updated>1733657478570</updated>
     </task>
+    <task id="LOCAL-00001" summary="project word">
+      <option name="closed" value="true" />
+      <created>1733660912861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733660912861</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project word" />
+    <option name="LAST_COMMIT_MESSAGE" value="project word" />
   </component>
 </project>
