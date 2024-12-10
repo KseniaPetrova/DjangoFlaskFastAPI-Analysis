@@ -19,13 +19,13 @@ def menu_view(request: HttpRequest) -> HttpResponse:
 
 def homenotes_view(request: HttpRequest) -> HttpResponse:
     """
-        Отображает главную страницу.
+        Отображает страницу с заметками.
 
         Параметры:
             request (HttpRequest): Объект HTTP-запроса.
 
         Возвращает:
-            HttpResponse: Ответ с отрисованной главной страницей.
+            HttpResponse: Ответ с отрисованной страницей с заметками.
     """
     return render(request, 'homenotes.html')
 
